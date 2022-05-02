@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dnsshot() {
+digem() {
 declare -A thumb_war
 thumb_war=(
         [_cloudflare]="1.1.1.1"
